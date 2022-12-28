@@ -6,9 +6,9 @@ global.report = {
 }
 
 // Nomor Owner
-global.ownerNumber = ["6285849261085@s.whatsapp.net"]
-global.owner = ["6285849261085"]
-global.ownerName = ["Febriansyah"]
+global.ownerNumber = ["6283121594305@s.whatsapp.net"]
+global.owner = ["6283121594305"]
+global.ownerName = ["Akhdaan"]
 
 global.gamewaktu = '60'
 global.limitCount = '50'
